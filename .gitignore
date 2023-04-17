@@ -1,10 +1,10 @@
 # CAP sflight
 _out
-*.db
+#*.db
 connection.properties
 default-*.json
 schema.sql
-gen/
+#gen/
 node_modules/
 target/
 .reloadtrigger
